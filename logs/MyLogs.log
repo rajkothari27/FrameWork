@@ -1,0 +1,5 @@
+[DEBUG] 2021-04-16 22:13:46.870 [main] tc1 - i am a debug
+[INFO ] 2021-04-16 22:13:46.876 [main] tc1 - driver started
+[ERROR] 2021-04-16 22:13:46.879 [main] tc1 - if not open
+[INFO ] 2021-04-16 22:13:49.850 [main] tc1 - starting nike website
+[FATAL] 2021-04-16 22:13:49.850 [main] tc1 - fatal 
